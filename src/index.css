@@ -11,6 +11,7 @@ body {
     Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   background: #f1f8f5;
   color: #222;
+  text-align: center;
 }
 .bookList {
   width: 90vw;
