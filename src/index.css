@@ -42,3 +42,27 @@ body {
   font-size: 1rem;
   margin-top: 0.25rem;
 }
+
+ul {
+  list-style-type: none;
+}
+.user {
+  background-color: #617d98;
+  margin: 1.5rem 3rem;
+  padding: 1rem 2rem;
+  border: 5px solid #222;
+  border-radius: 10px;
+
+}
+.avatar {
+  width: 100px;
+  border-radius: 50%;
+}
+.userName {
+  text-transform: capitalize;
+  color: #fff;
+}
+.userName a {
+  color: #f1f8f5;
+  font-size: 14px;
+}
